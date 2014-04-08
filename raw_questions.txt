@@ -1,0 +1,2590 @@
+289
+Mumbai
+hard
+Is calling Mumbai Bombay controversial today?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+289
+Mumbai
+hard
+Is calling Mumbai Bombay controversial today?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+290
+Mumbai
+hard
+How many years of schooling do typical students in Mumbai complete?
+question_disfluent=0
+question_unreasonable=0
+15
+
+290
+Mumbai
+hard
+How many years of schooling do typical students in Mumbai complete?
+question_disfluent=0
+question_unreasonable=0
+10
+
+291
+Mumbai
+hard
+Is the GDP of Mumbai higher than the GDP of Thane?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+291
+Mumbai
+hard
+Is the GDP of Mumbai higher than the GDP of Thane?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+292
+Mumbai
+medium
+What is the busiest port in India?
+question_disfluent=0
+question_unreasonable=0
+Jawaharlal Nehru Port
+
+292
+Mumbai
+medium
+What is the busiest port in India?
+question_disfluent=0
+question_unreasonable=0
+Jawaharlal Nehru Port Trust
+
+293
+Mumbai
+medium
+What climate does Mumbai have?
+question_disfluent=0
+question_unreasonable=0
+Tropical climate
+
+293
+Mumbai
+medium
+What climate does Mumbai have?
+question_disfluent=0
+question_unreasonable=0
+a tropical wet and dry climate
+
+294
+Mumbai
+medium
+The opening of what transformed Bombay into one of the largest seaports on the Arabian Sea?
+question_disfluent=0
+question_unreasonable=0
+Suez Canal
+
+294
+Mumbai
+medium
+The opening of what transformed Bombay into one of the largest seaports on the Arabian Sea?
+question_disfluent=0
+question_unreasonable=0
+the Suez Canal
+
+295
+Mumbai
+easy
+Is Mumbai the commercial capital of India today?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+295
+Mumbai
+easy
+Is Mumbai the commercial capital of India today?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+296
+Mumbai
+easy
+Is Mumbai represented by eight parliamentary constituencies?
+question_disfluent=0
+question_unreasonable=0
+No
+
+296
+Mumbai
+easy
+Is Mumbai represented by eight parliamentary constituencies?
+question_disfluent=0
+question_unreasonable=0
+No
+
+297
+Mumbai
+easy
+Does Mumbai consist of two revenue districts?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+297
+Mumbai
+easy
+Does Mumbai consist of two revenue districts?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+298
+Scottish_Gaelic
+hard
+Is Scottish Gaelic derived from Primitive Irish?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+298
+Scottish_Gaelic
+hard
+Is Scottish Gaelic derived from Primitive Irish?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+299
+Scottish_Gaelic
+hard
+Is Scottish Gaelic also called Erse today?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+299
+Scottish_Gaelic
+hard
+Is Scottish Gaelic also called Erse today?
+question_disfluent=0
+question_unreasonable=0
+No
+
+300
+Scottish_Gaelic
+hard
+Was the Scottish Gaelic version of the Bible published in 1690 better known than the one made in 1767?
+question_disfluent=0
+question_unreasonable=0
+No
+
+300
+Scottish_Gaelic
+hard
+Was the Scottish Gaelic version of the Bible published in 1690 better known than the one made in 1767?
+question_disfluent=0
+question_unreasonable=0
+No
+
+301
+Scottish_Gaelic
+medium
+Public signage in Gaelic is becoming increasingly common throughout where?
+question_disfluent=0
+question_unreasonable=0
+Scottish Highlands
+
+301
+Scottish_Gaelic
+medium
+Public signage in Gaelic is becoming increasingly common throughout where?
+question_disfluent=0
+question_unreasonable=0
+the Scottish Highlands
+
+302
+Scottish_Gaelic
+medium
+The 2001 UK Census showed how many Gaelic speakers in Scotland?
+question_disfluent=0
+question_unreasonable=0
+7300
+
+302
+Scottish_Gaelic
+medium
+The 2001 UK Census showed how many Gaelic speakers in Scotland?
+question_disfluent=0
+question_unreasonable=0
+58,652
+
+303
+Scottish_Gaelic
+medium
+Scottish Gaelic may be more correctly known as what?
+question_disfluent=0
+question_unreasonable=0
+Highland Gaelic
+
+303
+Scottish_Gaelic
+medium
+Scottish Gaelic may be more correctly known as what?
+question_disfluent=0
+question_unreasonable=0
+Highland Gaelic
+
+304
+Scottish_Gaelic
+easy
+Is Scottish Gaelic recognised as a separate language from Irish?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+304
+Scottish_Gaelic
+easy
+Is Scottish Gaelic recognised as a separate language from Irish?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+305
+Scottish_Gaelic
+easy
+Was the Gaelic language introduced to Scotland by settlers from Ireland?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+305
+Scottish_Gaelic
+easy
+Was the Gaelic language introduced to Scotland by settlers from Ireland?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+306
+Scottish_Gaelic
+easy
+Is Scottish Gaelic an official language of the European Union?
+question_disfluent=0
+question_unreasonable=0
+No
+
+306
+Scottish_Gaelic
+easy
+Is Scottish Gaelic an official language of the European Union?
+question_disfluent=0
+question_unreasonable=0
+No
+
+523
+Blaise_Pascal
+hard
+Is ”Lettres provinciales“ one of Blaise Pascal most famous works?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+523
+Blaise_Pascal
+hard
+Is ”Lettres provinciales“ one of Blaise Pascal most famous works?
+question_disfluent=0
+question_unreasonable=0
+yes
+
+524
+Blaise_Pascal
+hard
+Is Blaise Pascal died from car accident?
+question_disfluent=0
+question_unreasonable=1
+No
+
+524
+Blaise_Pascal
+hard
+Is Blaise Pascal died from car accident?
+question_disfluent=0
+question_unreasonable=0
+no
+
+525
+Blaise_Pascal
+hard
+Does hydrostatic pressure depend on the weight of the fluid?
+question_disfluent=0
+question_unreasonable=0
+No
+
+525
+Blaise_Pascal
+hard
+Does hydrostatic pressure depend on the weight of the fluid?
+question_disfluent=0
+question_unreasonable=0
+no
+
+526
+Blaise_Pascal
+medium
+What is Pascal's most influential contribution to mathematics?
+question_disfluent=0
+question_unreasonable=0
+Development of probability theory
+
+526
+Blaise_Pascal
+medium
+What is Pascal's most influential contribution to mathematics?
+question_disfluent=0
+question_unreasonable=0
+development of probability theory
+
+527
+Blaise_Pascal
+medium
+What is the job of Blaise Pascal's father?
+question_disfluent=0
+question_unreasonable=0
+Tax collector
+
+527
+Blaise_Pascal
+medium
+What is the job of Blaise Pascal's father?
+question_disfluent=0
+question_unreasonable=0
+tax collector
+
+528
+Blaise_Pascal
+medium
+How many prototypes did he build for calculating machines?
+question_disfluent=0
+question_unreasonable=0
+50
+
+528
+Blaise_Pascal
+medium
+How many prototypes did he build for calculating machines?
+question_disfluent=0
+question_unreasonable=0
+50
+
+529
+Blaise_Pascal
+easy
+Did he describe "a convenient tabular presentation for binomial coefficients" in 1653?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+529
+Blaise_Pascal
+easy
+Did he describe "a convenient tabular presentation for binomial coefficients" in 1653?
+question_disfluent=0
+question_unreasonable=0
+yes
+
+530
+Blaise_Pascal
+easy
+Is his sister's name Jacqueline?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+530
+Blaise_Pascal
+easy
+Is his sister's name Jacqueline?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+531
+Blaise_Pascal
+easy
+Is Blaise Pascal born in 1623?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+531
+Blaise_Pascal
+easy
+Is Blaise Pascal born in 1623?
+question_disfluent=0
+question_unreasonable=0
+No
+
+532
+Guitar
+hard
+Must a electronic guitar have an amplifier?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+532
+Guitar
+hard
+Must a electronic guitar have an amplifier?
+question_disfluent=0
+question_unreasonable=0
+yes
+
+533
+Guitar
+hard
+Is amplified guitars have solid body or hollow body nowadays?
+question_disfluent=0
+question_unreasonable=1
+
+
+533
+Guitar
+hard
+Is amplified guitars have solid body or hollow body nowadays?
+question_disfluent=0
+question_unreasonable=1
+
+
+534
+Guitar
+hard
+Which part of guitar is acting as a resonating chamber?
+question_disfluent=0
+question_unreasonable=0
+The body of the quitar
+
+534
+Guitar
+hard
+Which part of guitar is acting as a resonating chamber?
+question_disfluent=0
+question_unreasonable=0
+the body
+
+535
+Guitar
+medium
+What are the two types of guitar?
+question_disfluent=0
+question_unreasonable=0
+acoustic and electric
+
+535
+Guitar
+medium
+What are the two types of guitar?
+question_disfluent=0
+question_unreasonable=0
+acoustic and electric
+
+536
+Guitar
+medium
+How is the tone produce with acoustic guitar?
+question_disfluent=0
+question_unreasonable=0
+The tone of an acoustic guitar is produced by the vibration of the strings
+
+536
+Guitar
+medium
+How is the tone produce with acoustic guitar?
+question_disfluent=0
+question_unreasonable=1
+
+
+537
+Guitar
+medium
+What is guitar?
+question_disfluent=0
+question_unreasonable=0
+The guitar is a plucked string instrument
+
+537
+Guitar
+medium
+What is guitar?
+question_disfluent=0
+question_unreasonable=0
+a plucked string instrument, usually played with fingers or a pick
+
+538
+Guitar
+easy
+Is classical guitar often played as a solo instrument?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+538
+Guitar
+easy
+Is classical guitar often played as a solo instrument?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+539
+Guitar
+easy
+Are some modern guitars made of polycarbonate materials?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+539
+Guitar
+easy
+Are some modern guitars made of polycarbonate materials?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+540
+Guitar
+easy
+Is electric guitars introduced in the 1930s?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+540
+Guitar
+easy
+Is electric guitars introduced in the 1930s?
+question_disfluent=0
+question_unreasonable=1
+Yes
+
+595
+Yanomaman_languages
+hard
+Do nouns follow or precede their corresponding adjectival stative verbs?
+question_disfluent=0
+question_unreasonable=0
+Nouns precede their corresponding adjectival stative verbs
+
+595
+Yanomaman_languages
+hard
+Do nouns follow or precede their corresponding adjectival stative verbs?
+question_disfluent=0
+question_unreasonable=0
+precede
+
+596
+Yanomaman_languages
+hard
+Does Yanam have less vowels than other dialects of Yanomami?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+596
+Yanomaman_languages
+hard
+Does Yanam have less vowels than other dialects of Yanomami?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+597
+Yanomaman_languages
+hard
+How is the subject of an intransitive verb and the object of a transitive verb marked?
+question_disfluent=0
+question_unreasonable=0
+The same way
+
+597
+Yanomaman_languages
+hard
+How is the subject of an intransitive verb and the object of a transitive verb marked?
+question_disfluent=0
+question_unreasonable=0
+Same way
+
+598
+Yanomaman_languages
+medium
+What vowel distinction is there in Yanomami?
+question_disfluent=0
+question_unreasonable=0
+oral and nasal
+
+598
+Yanomaman_languages
+medium
+What vowel distinction is there in Yanomami?
+question_disfluent=1
+question_unreasonable=0
+ oral and nasal 
+
+599
+Yanomaman_languages
+medium
+How many languages does Yanomaman consist of?
+question_disfluent=0
+question_unreasonable=0
+4
+
+599
+Yanomaman_languages
+medium
+How many languages does Yanomaman consist of?
+question_disfluent=0
+question_unreasonable=0
+4
+
+600
+Yanomaman_languages
+medium
+Where is the Yanomaman language family from?
+question_disfluent=0
+question_unreasonable=0
+northwestern Brazil and southern Venezuela
+
+600
+Yanomaman_languages
+medium
+Where is the Yanomaman language family from?
+question_disfluent=0
+question_unreasonable=0
+northwestern Brazil and southern Venezuela.
+
+601
+Yanomaman_languages
+easy
+Is the subject of an intransitive verb marked the same way as the object of a transitive verb?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+601
+Yanomaman_languages
+easy
+Is the subject of an intransitive verb marked the same way as the object of a transitive verb?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+602
+Yanomaman_languages
+easy
+Is Yanomamam usually connected with any other language family?
+question_disfluent=0
+question_unreasonable=0
+No
+
+602
+Yanomaman_languages
+easy
+Is Yanomamam usually connected with any other language family?
+question_disfluent=0
+question_unreasonable=0
+No
+
+603
+Yanomaman_languages
+easy
+Is there a distinction between alienable and inalienable possession in Yanomaman languages?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+603
+Yanomaman_languages
+easy
+Is there a distinction between alienable and inalienable possession in Yanomaman languages?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+604
+San_Francisco
+hard
+Did manufacturing companies like Levi Strauss and Ghirardelli came to San Francisco after the Pacific Railroad connected to San Francisco?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+604
+San_Francisco
+hard
+Did manufacturing companies like Levi Strauss and Ghirardelli came to San Francisco after the Pacific Railroad connected to San Francisco?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+605
+San_Francisco
+hard
+Is the University of San Francisco older than San Francisco State University?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+605
+San_Francisco
+hard
+Is the University of San Francisco older than San Francisco State University?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+606
+San_Francisco
+hard
+Who came to San Francisco first: the Spanish or the English?
+question_disfluent=0
+question_unreasonable=0
+The spanish
+
+606
+San_Francisco
+hard
+Who came to San Francisco first: the Spanish or the English?
+question_disfluent=0
+question_unreasonable=0
+Spanish
+
+607
+San_Francisco
+medium
+How much of San Francisco was destroyed by the 1906 earthquake and fire?
+question_disfluent=0
+question_unreasonable=0
+Three-quarters of the city
+
+607
+San_Francisco
+medium
+How much of San Francisco was destroyed by the 1906 earthquake and fire?
+question_disfluent=0
+question_unreasonable=0
+three-quarters
+
+608
+San_Francisco
+medium
+In what year did colonists from Spain establish a fort at the Golden Gate?
+question_disfluent=0
+question_unreasonable=0
+1776
+
+608
+San_Francisco
+medium
+In what year did colonists from Spain establish a fort at the Golden Gate?
+question_disfluent=0
+question_unreasonable=0
+1776
+
+609
+San_Francisco
+medium
+How many people live in the San Francisco Bay Area?
+question_disfluent=0
+question_unreasonable=0
+7.15 million people
+
+609
+San_Francisco
+medium
+How many people live in the San Francisco Bay Area?
+question_disfluent=0
+question_unreasonable=0
+7.15 million
+
+610
+San_Francisco
+easy
+Did the USS San Francisco ever pass under the Golden Gate Bridge?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+610
+San_Francisco
+easy
+Did the USS San Francisco ever pass under the Golden Gate Bridge?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+611
+San_Francisco
+easy
+Is there evidence of human habitation of San Francisco in 3000 BC?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+611
+San_Francisco
+easy
+Is there evidence of human habitation of San Francisco in 3000 BC?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+612
+San_Francisco
+easy
+Is San Francisco in California?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+612
+San_Francisco
+easy
+Is San Francisco in California?
+question_disfluent=0
+question_unreasonable=0
+Yes
+
+289
+Mumbai
+hard
+Is calling Mumbai Bombay controversial today?
+question_disfluent=0
+question_unreasonable=0
+
+
+289
+Mumbai
+hard
+Is calling Mumbai Bombay controversial today?
+question_disfluent=0
+question_unreasonable=0
+
+
+289
+Mumbai
+hard
+Is calling Mumbai Bombay controversial today?
+question_disfluent=0
+question_unreasonable=0
+
+
+289
+Mumbai
+hard
+Is calling Mumbai Bombay controversial today?
+question_disfluent=0
+question_unreasonable=0
+
+
+290
+Mumbai
+hard
+How many years of schooling do typical students in Mumbai complete?
+question_disfluent=0
+question_unreasonable=0
+
+
+290
+Mumbai
+hard
+How many years of schooling do typical students in Mumbai complete?
+question_disfluent=0
+question_unreasonable=0
+
+
+290
+Mumbai
+hard
+How many years of schooling do typical students in Mumbai complete?
+question_disfluent=0
+question_unreasonable=0
+
+
+290
+Mumbai
+hard
+How many years of schooling do typical students in Mumbai complete?
+question_disfluent=0
+question_unreasonable=0
+
+
+291
+Mumbai
+hard
+Is the GDP of Mumbai higher than the GDP of Thane?
+question_disfluent=0
+question_unreasonable=0
+
+
+291
+Mumbai
+hard
+Is the GDP of Mumbai higher than the GDP of Thane?
+question_disfluent=0
+question_unreasonable=0
+
+
+291
+Mumbai
+hard
+Is the GDP of Mumbai higher than the GDP of Thane?
+question_disfluent=0
+question_unreasonable=0
+
+
+291
+Mumbai
+hard
+Is the GDP of Mumbai higher than the GDP of Thane?
+question_disfluent=0
+question_unreasonable=0
+
+
+292
+Mumbai
+medium
+What is the busiest port in India?
+question_disfluent=0
+question_unreasonable=0
+
+
+292
+Mumbai
+medium
+What is the busiest port in India?
+question_disfluent=0
+question_unreasonable=0
+
+
+292
+Mumbai
+medium
+What is the busiest port in India?
+question_disfluent=0
+question_unreasonable=0
+
+
+292
+Mumbai
+medium
+What is the busiest port in India?
+question_disfluent=0
+question_unreasonable=0
+
+
+293
+Mumbai
+medium
+What climate does Mumbai have?
+question_disfluent=0
+question_unreasonable=0
+
+
+293
+Mumbai
+medium
+What climate does Mumbai have?
+question_disfluent=0
+question_unreasonable=0
+
+
+293
+Mumbai
+medium
+What climate does Mumbai have?
+question_disfluent=0
+question_unreasonable=0
+
+
+293
+Mumbai
+medium
+What climate does Mumbai have?
+question_disfluent=0
+question_unreasonable=0
+
+
+294
+Mumbai
+medium
+The opening of what transformed Bombay into one of the largest seaports on the Arabian Sea?
+question_disfluent=0
+question_unreasonable=0
+
+
+294
+Mumbai
+medium
+The opening of what transformed Bombay into one of the largest seaports on the Arabian Sea?
+question_disfluent=0
+question_unreasonable=0
+
+
+294
+Mumbai
+medium
+The opening of what transformed Bombay into one of the largest seaports on the Arabian Sea?
+question_disfluent=0
+question_unreasonable=0
+
+
+294
+Mumbai
+medium
+The opening of what transformed Bombay into one of the largest seaports on the Arabian Sea?
+question_disfluent=0
+question_unreasonable=0
+
+
+295
+Mumbai
+easy
+Is Mumbai the commercial capital of India today?
+question_disfluent=0
+question_unreasonable=0
+
+
+295
+Mumbai
+easy
+Is Mumbai the commercial capital of India today?
+question_disfluent=0
+question_unreasonable=0
+
+
+295
+Mumbai
+easy
+Is Mumbai the commercial capital of India today?
+question_disfluent=0
+question_unreasonable=0
+
+
+295
+Mumbai
+easy
+Is Mumbai the commercial capital of India today?
+question_disfluent=0
+question_unreasonable=0
+
+
+296
+Mumbai
+easy
+Is Mumbai represented by eight parliamentary constituencies?
+question_disfluent=0
+question_unreasonable=0
+
+
+296
+Mumbai
+easy
+Is Mumbai represented by eight parliamentary constituencies?
+question_disfluent=0
+question_unreasonable=0
+
+
+296
+Mumbai
+easy
+Is Mumbai represented by eight parliamentary constituencies?
+question_disfluent=0
+question_unreasonable=0
+
+
+296
+Mumbai
+easy
+Is Mumbai represented by eight parliamentary constituencies?
+question_disfluent=0
+question_unreasonable=0
+
+
+297
+Mumbai
+easy
+Does Mumbai consist of two revenue districts?
+question_disfluent=0
+question_unreasonable=0
+
+
+297
+Mumbai
+easy
+Does Mumbai consist of two revenue districts?
+question_disfluent=0
+question_unreasonable=0
+
+
+297
+Mumbai
+easy
+Does Mumbai consist of two revenue districts?
+question_disfluent=0
+question_unreasonable=0
+
+
+297
+Mumbai
+easy
+Does Mumbai consist of two revenue districts?
+question_disfluent=0
+question_unreasonable=0
+
+
+298
+Scottish_Gaelic
+hard
+Is Scottish Gaelic derived from Primitive Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+298
+Scottish_Gaelic
+hard
+Is Scottish Gaelic derived from Primitive Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+298
+Scottish_Gaelic
+hard
+Is Scottish Gaelic derived from Primitive Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+298
+Scottish_Gaelic
+hard
+Is Scottish Gaelic derived from Primitive Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+299
+Scottish_Gaelic
+hard
+Is Scottish Gaelic also called Erse today?
+question_disfluent=0
+question_unreasonable=0
+
+
+299
+Scottish_Gaelic
+hard
+Is Scottish Gaelic also called Erse today?
+question_disfluent=0
+question_unreasonable=0
+
+
+299
+Scottish_Gaelic
+hard
+Is Scottish Gaelic also called Erse today?
+question_disfluent=0
+question_unreasonable=0
+
+
+299
+Scottish_Gaelic
+hard
+Is Scottish Gaelic also called Erse today?
+question_disfluent=0
+question_unreasonable=0
+
+
+300
+Scottish_Gaelic
+hard
+Was the Scottish Gaelic version of the Bible published in 1690 better known than the one made in 1767?
+question_disfluent=0
+question_unreasonable=0
+
+
+300
+Scottish_Gaelic
+hard
+Was the Scottish Gaelic version of the Bible published in 1690 better known than the one made in 1767?
+question_disfluent=0
+question_unreasonable=0
+
+
+300
+Scottish_Gaelic
+hard
+Was the Scottish Gaelic version of the Bible published in 1690 better known than the one made in 1767?
+question_disfluent=0
+question_unreasonable=0
+
+
+300
+Scottish_Gaelic
+hard
+Was the Scottish Gaelic version of the Bible published in 1690 better known than the one made in 1767?
+question_disfluent=0
+question_unreasonable=0
+
+
+301
+Scottish_Gaelic
+medium
+Public signage in Gaelic is becoming increasingly common throughout where?
+question_disfluent=0
+question_unreasonable=0
+
+
+301
+Scottish_Gaelic
+medium
+Public signage in Gaelic is becoming increasingly common throughout where?
+question_disfluent=0
+question_unreasonable=0
+
+
+301
+Scottish_Gaelic
+medium
+Public signage in Gaelic is becoming increasingly common throughout where?
+question_disfluent=0
+question_unreasonable=0
+
+
+301
+Scottish_Gaelic
+medium
+Public signage in Gaelic is becoming increasingly common throughout where?
+question_disfluent=0
+question_unreasonable=0
+
+
+302
+Scottish_Gaelic
+medium
+The 2001 UK Census showed how many Gaelic speakers in Scotland?
+question_disfluent=0
+question_unreasonable=0
+
+
+302
+Scottish_Gaelic
+medium
+The 2001 UK Census showed how many Gaelic speakers in Scotland?
+question_disfluent=0
+question_unreasonable=0
+
+
+302
+Scottish_Gaelic
+medium
+The 2001 UK Census showed how many Gaelic speakers in Scotland?
+question_disfluent=0
+question_unreasonable=0
+
+
+302
+Scottish_Gaelic
+medium
+The 2001 UK Census showed how many Gaelic speakers in Scotland?
+question_disfluent=0
+question_unreasonable=0
+
+
+303
+Scottish_Gaelic
+medium
+Scottish Gaelic may be more correctly known as what?
+question_disfluent=0
+question_unreasonable=0
+
+
+303
+Scottish_Gaelic
+medium
+Scottish Gaelic may be more correctly known as what?
+question_disfluent=0
+question_unreasonable=0
+
+
+303
+Scottish_Gaelic
+medium
+Scottish Gaelic may be more correctly known as what?
+question_disfluent=0
+question_unreasonable=0
+
+
+303
+Scottish_Gaelic
+medium
+Scottish Gaelic may be more correctly known as what?
+question_disfluent=0
+question_unreasonable=0
+
+
+304
+Scottish_Gaelic
+easy
+Is Scottish Gaelic recognised as a separate language from Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+304
+Scottish_Gaelic
+easy
+Is Scottish Gaelic recognised as a separate language from Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+304
+Scottish_Gaelic
+easy
+Is Scottish Gaelic recognised as a separate language from Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+304
+Scottish_Gaelic
+easy
+Is Scottish Gaelic recognised as a separate language from Irish?
+question_disfluent=0
+question_unreasonable=0
+
+
+305
+Scottish_Gaelic
+easy
+Was the Gaelic language introduced to Scotland by settlers from Ireland?
+question_disfluent=0
+question_unreasonable=0
+
+
+305
+Scottish_Gaelic
+easy
+Was the Gaelic language introduced to Scotland by settlers from Ireland?
+question_disfluent=0
+question_unreasonable=0
+
+
+305
+Scottish_Gaelic
+easy
+Was the Gaelic language introduced to Scotland by settlers from Ireland?
+question_disfluent=0
+question_unreasonable=0
+
+
+305
+Scottish_Gaelic
+easy
+Was the Gaelic language introduced to Scotland by settlers from Ireland?
+question_disfluent=0
+question_unreasonable=0
+
+
+306
+Scottish_Gaelic
+easy
+Is Scottish Gaelic an official language of the European Union?
+question_disfluent=0
+question_unreasonable=0
+
+
+306
+Scottish_Gaelic
+easy
+Is Scottish Gaelic an official language of the European Union?
+question_disfluent=0
+question_unreasonable=0
+
+
+306
+Scottish_Gaelic
+easy
+Is Scottish Gaelic an official language of the European Union?
+question_disfluent=0
+question_unreasonable=0
+
+
+306
+Scottish_Gaelic
+easy
+Is Scottish Gaelic an official language of the European Union?
+question_disfluent=0
+question_unreasonable=0
+
+
+523
+Blaise_Pascal
+hard
+Is ”Lettres provinciales“ one of Blaise Pascal most famous works?
+question_disfluent=0
+question_unreasonable=0
+
+
+523
+Blaise_Pascal
+hard
+Is ”Lettres provinciales“ one of Blaise Pascal most famous works?
+question_disfluent=0
+question_unreasonable=0
+
+
+523
+Blaise_Pascal
+hard
+Is ”Lettres provinciales“ one of Blaise Pascal most famous works?
+question_disfluent=0
+question_unreasonable=0
+
+
+523
+Blaise_Pascal
+hard
+Is ”Lettres provinciales“ one of Blaise Pascal most famous works?
+question_disfluent=0
+question_unreasonable=0
+
+
+524
+Blaise_Pascal
+hard
+Is Blaise Pascal died from car accident?
+question_disfluent=0
+question_unreasonable=0
+
+
+524
+Blaise_Pascal
+hard
+Is Blaise Pascal died from car accident?
+question_disfluent=0
+question_unreasonable=0
+
+
+524
+Blaise_Pascal
+hard
+Is Blaise Pascal died from car accident?
+question_disfluent=0
+question_unreasonable=0
+
+
+524
+Blaise_Pascal
+hard
+Is Blaise Pascal died from car accident?
+question_disfluent=0
+question_unreasonable=0
+
+
+525
+Blaise_Pascal
+hard
+Does hydrostatic pressure depend on the weight of the fluid?
+question_disfluent=0
+question_unreasonable=0
+
+
+525
+Blaise_Pascal
+hard
+Does hydrostatic pressure depend on the weight of the fluid?
+question_disfluent=0
+question_unreasonable=0
+
+
+525
+Blaise_Pascal
+hard
+Does hydrostatic pressure depend on the weight of the fluid?
+question_disfluent=0
+question_unreasonable=0
+
+
+525
+Blaise_Pascal
+hard
+Does hydrostatic pressure depend on the weight of the fluid?
+question_disfluent=0
+question_unreasonable=0
+
+
+526
+Blaise_Pascal
+medium
+What is Pascal's most influential contribution to mathematics?
+question_disfluent=0
+question_unreasonable=0
+
+
+526
+Blaise_Pascal
+medium
+What is Pascal's most influential contribution to mathematics?
+question_disfluent=0
+question_unreasonable=0
+
+
+526
+Blaise_Pascal
+medium
+What is Pascal's most influential contribution to mathematics?
+question_disfluent=0
+question_unreasonable=0
+
+
+526
+Blaise_Pascal
+medium
+What is Pascal's most influential contribution to mathematics?
+question_disfluent=0
+question_unreasonable=0
+
+
+527
+Blaise_Pascal
+medium
+What is the job of Blaise Pascal's father?
+question_disfluent=0
+question_unreasonable=0
+
+
+527
+Blaise_Pascal
+medium
+What is the job of Blaise Pascal's father?
+question_disfluent=0
+question_unreasonable=0
+
+
+527
+Blaise_Pascal
+medium
+What is the job of Blaise Pascal's father?
+question_disfluent=0
+question_unreasonable=0
+
+
+527
+Blaise_Pascal
+medium
+What is the job of Blaise Pascal's father?
+question_disfluent=0
+question_unreasonable=0
+
+
+528
+Blaise_Pascal
+medium
+How many prototypes did he build for calculating machines?
+question_disfluent=0
+question_unreasonable=0
+
+
+528
+Blaise_Pascal
+medium
+How many prototypes did he build for calculating machines?
+question_disfluent=0
+question_unreasonable=0
+
+
+528
+Blaise_Pascal
+medium
+How many prototypes did he build for calculating machines?
+question_disfluent=0
+question_unreasonable=0
+
+
+528
+Blaise_Pascal
+medium
+How many prototypes did he build for calculating machines?
+question_disfluent=0
+question_unreasonable=0
+
+
+529
+Blaise_Pascal
+easy
+Did he describe "a convenient tabular presentation for binomial coefficients" in 1653?
+question_disfluent=0
+question_unreasonable=0
+
+
+529
+Blaise_Pascal
+easy
+Did he describe "a convenient tabular presentation for binomial coefficients" in 1653?
+question_disfluent=0
+question_unreasonable=0
+
+
+529
+Blaise_Pascal
+easy
+Did he describe "a convenient tabular presentation for binomial coefficients" in 1653?
+question_disfluent=0
+question_unreasonable=0
+
+
+529
+Blaise_Pascal
+easy
+Did he describe "a convenient tabular presentation for binomial coefficients" in 1653?
+question_disfluent=0
+question_unreasonable=0
+
+
+530
+Blaise_Pascal
+easy
+Is his sister's name Jacqueline?
+question_disfluent=0
+question_unreasonable=0
+
+
+530
+Blaise_Pascal
+easy
+Is his sister's name Jacqueline?
+question_disfluent=0
+question_unreasonable=0
+
+
+530
+Blaise_Pascal
+easy
+Is his sister's name Jacqueline?
+question_disfluent=0
+question_unreasonable=0
+
+
+530
+Blaise_Pascal
+easy
+Is his sister's name Jacqueline?
+question_disfluent=0
+question_unreasonable=0
+
+
+531
+Blaise_Pascal
+easy
+Is Blaise Pascal born in 1623?
+question_disfluent=0
+question_unreasonable=0
+
+
+531
+Blaise_Pascal
+easy
+Is Blaise Pascal born in 1623?
+question_disfluent=0
+question_unreasonable=0
+
+
+531
+Blaise_Pascal
+easy
+Is Blaise Pascal born in 1623?
+question_disfluent=0
+question_unreasonable=0
+
+
+531
+Blaise_Pascal
+easy
+Is Blaise Pascal born in 1623?
+question_disfluent=0
+question_unreasonable=0
+
+
+532
+Guitar
+hard
+Must a electronic guitar have an amplifier?
+question_disfluent=0
+question_unreasonable=0
+
+
+532
+Guitar
+hard
+Must a electronic guitar have an amplifier?
+question_disfluent=0
+question_unreasonable=0
+
+
+532
+Guitar
+hard
+Must a electronic guitar have an amplifier?
+question_disfluent=0
+question_unreasonable=0
+
+
+532
+Guitar
+hard
+Must a electronic guitar have an amplifier?
+question_disfluent=0
+question_unreasonable=0
+
+
+533
+Guitar
+hard
+Is amplified guitars have solid body or hollow body nowadays?
+question_disfluent=0
+question_unreasonable=0
+
+
+533
+Guitar
+hard
+Is amplified guitars have solid body or hollow body nowadays?
+question_disfluent=0
+question_unreasonable=0
+
+
+533
+Guitar
+hard
+Is amplified guitars have solid body or hollow body nowadays?
+question_disfluent=0
+question_unreasonable=0
+
+
+533
+Guitar
+hard
+Is amplified guitars have solid body or hollow body nowadays?
+question_disfluent=0
+question_unreasonable=0
+
+
+534
+Guitar
+hard
+Which part of guitar is acting as a resonating chamber?
+question_disfluent=0
+question_unreasonable=0
+
+
+534
+Guitar
+hard
+Which part of guitar is acting as a resonating chamber?
+question_disfluent=0
+question_unreasonable=0
+
+
+534
+Guitar
+hard
+Which part of guitar is acting as a resonating chamber?
+question_disfluent=0
+question_unreasonable=0
+
+
+534
+Guitar
+hard
+Which part of guitar is acting as a resonating chamber?
+question_disfluent=0
+question_unreasonable=0
+
+
+535
+Guitar
+medium
+What are the two types of guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+535
+Guitar
+medium
+What are the two types of guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+535
+Guitar
+medium
+What are the two types of guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+535
+Guitar
+medium
+What are the two types of guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+536
+Guitar
+medium
+How is the tone produce with acoustic guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+536
+Guitar
+medium
+How is the tone produce with acoustic guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+536
+Guitar
+medium
+How is the tone produce with acoustic guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+536
+Guitar
+medium
+How is the tone produce with acoustic guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+537
+Guitar
+medium
+What is guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+537
+Guitar
+medium
+What is guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+537
+Guitar
+medium
+What is guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+537
+Guitar
+medium
+What is guitar?
+question_disfluent=0
+question_unreasonable=0
+
+
+538
+Guitar
+easy
+Is classical guitar often played as a solo instrument?
+question_disfluent=0
+question_unreasonable=0
+
+
+538
+Guitar
+easy
+Is classical guitar often played as a solo instrument?
+question_disfluent=0
+question_unreasonable=0
+
+
+538
+Guitar
+easy
+Is classical guitar often played as a solo instrument?
+question_disfluent=0
+question_unreasonable=0
+
+
+538
+Guitar
+easy
+Is classical guitar often played as a solo instrument?
+question_disfluent=0
+question_unreasonable=0
+
+
+539
+Guitar
+easy
+Are some modern guitars made of polycarbonate materials?
+question_disfluent=0
+question_unreasonable=0
+
+
+539
+Guitar
+easy
+Are some modern guitars made of polycarbonate materials?
+question_disfluent=0
+question_unreasonable=0
+
+
+539
+Guitar
+easy
+Are some modern guitars made of polycarbonate materials?
+question_disfluent=0
+question_unreasonable=0
+
+
+539
+Guitar
+easy
+Are some modern guitars made of polycarbonate materials?
+question_disfluent=0
+question_unreasonable=0
+
+
+540
+Guitar
+easy
+Is electric guitars introduced in the 1930s?
+question_disfluent=0
+question_unreasonable=0
+
+
+540
+Guitar
+easy
+Is electric guitars introduced in the 1930s?
+question_disfluent=0
+question_unreasonable=0
+
+
+540
+Guitar
+easy
+Is electric guitars introduced in the 1930s?
+question_disfluent=0
+question_unreasonable=0
+
+
+540
+Guitar
+easy
+Is electric guitars introduced in the 1930s?
+question_disfluent=0
+question_unreasonable=0
+
+
+595
+Yanomaman_languages
+hard
+Do nouns follow or precede their corresponding adjectival stative verbs?
+question_disfluent=0
+question_unreasonable=0
+
+
+595
+Yanomaman_languages
+hard
+Do nouns follow or precede their corresponding adjectival stative verbs?
+question_disfluent=0
+question_unreasonable=0
+
+
+595
+Yanomaman_languages
+hard
+Do nouns follow or precede their corresponding adjectival stative verbs?
+question_disfluent=0
+question_unreasonable=0
+
+
+595
+Yanomaman_languages
+hard
+Do nouns follow or precede their corresponding adjectival stative verbs?
+question_disfluent=0
+question_unreasonable=0
+
+
+596
+Yanomaman_languages
+hard
+Does Yanam have less vowels than other dialects of Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+596
+Yanomaman_languages
+hard
+Does Yanam have less vowels than other dialects of Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+596
+Yanomaman_languages
+hard
+Does Yanam have less vowels than other dialects of Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+596
+Yanomaman_languages
+hard
+Does Yanam have less vowels than other dialects of Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+597
+Yanomaman_languages
+hard
+How is the subject of an intransitive verb and the object of a transitive verb marked?
+question_disfluent=0
+question_unreasonable=0
+
+
+597
+Yanomaman_languages
+hard
+How is the subject of an intransitive verb and the object of a transitive verb marked?
+question_disfluent=0
+question_unreasonable=0
+
+
+597
+Yanomaman_languages
+hard
+How is the subject of an intransitive verb and the object of a transitive verb marked?
+question_disfluent=0
+question_unreasonable=0
+
+
+597
+Yanomaman_languages
+hard
+How is the subject of an intransitive verb and the object of a transitive verb marked?
+question_disfluent=0
+question_unreasonable=0
+
+
+598
+Yanomaman_languages
+medium
+What vowel distinction is there in Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+598
+Yanomaman_languages
+medium
+What vowel distinction is there in Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+598
+Yanomaman_languages
+medium
+What vowel distinction is there in Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+598
+Yanomaman_languages
+medium
+What vowel distinction is there in Yanomami?
+question_disfluent=0
+question_unreasonable=0
+
+
+599
+Yanomaman_languages
+medium
+How many languages does Yanomaman consist of?
+question_disfluent=0
+question_unreasonable=0
+
+
+599
+Yanomaman_languages
+medium
+How many languages does Yanomaman consist of?
+question_disfluent=0
+question_unreasonable=0
+
+
+599
+Yanomaman_languages
+medium
+How many languages does Yanomaman consist of?
+question_disfluent=0
+question_unreasonable=0
+
+
+599
+Yanomaman_languages
+medium
+How many languages does Yanomaman consist of?
+question_disfluent=0
+question_unreasonable=0
+
+
+600
+Yanomaman_languages
+medium
+Where is the Yanomaman language family from?
+question_disfluent=0
+question_unreasonable=0
+
+
+600
+Yanomaman_languages
+medium
+Where is the Yanomaman language family from?
+question_disfluent=0
+question_unreasonable=0
+
+
+600
+Yanomaman_languages
+medium
+Where is the Yanomaman language family from?
+question_disfluent=0
+question_unreasonable=0
+
+
+600
+Yanomaman_languages
+medium
+Where is the Yanomaman language family from?
+question_disfluent=0
+question_unreasonable=0
+
+
+601
+Yanomaman_languages
+easy
+Is the subject of an intransitive verb marked the same way as the object of a transitive verb?
+question_disfluent=0
+question_unreasonable=0
+
+
+601
+Yanomaman_languages
+easy
+Is the subject of an intransitive verb marked the same way as the object of a transitive verb?
+question_disfluent=0
+question_unreasonable=0
+
+
+601
+Yanomaman_languages
+easy
+Is the subject of an intransitive verb marked the same way as the object of a transitive verb?
+question_disfluent=0
+question_unreasonable=0
+
+
+601
+Yanomaman_languages
+easy
+Is the subject of an intransitive verb marked the same way as the object of a transitive verb?
+question_disfluent=0
+question_unreasonable=0
+
+
+602
+Yanomaman_languages
+easy
+Is Yanomamam usually connected with any other language family?
+question_disfluent=0
+question_unreasonable=0
+
+
+602
+Yanomaman_languages
+easy
+Is Yanomamam usually connected with any other language family?
+question_disfluent=0
+question_unreasonable=0
+
+
+602
+Yanomaman_languages
+easy
+Is Yanomamam usually connected with any other language family?
+question_disfluent=0
+question_unreasonable=0
+
+
+602
+Yanomaman_languages
+easy
+Is Yanomamam usually connected with any other language family?
+question_disfluent=0
+question_unreasonable=0
+
+
+603
+Yanomaman_languages
+easy
+Is there a distinction between alienable and inalienable possession in Yanomaman languages?
+question_disfluent=0
+question_unreasonable=0
+
+
+603
+Yanomaman_languages
+easy
+Is there a distinction between alienable and inalienable possession in Yanomaman languages?
+question_disfluent=0
+question_unreasonable=0
+
+
+603
+Yanomaman_languages
+easy
+Is there a distinction between alienable and inalienable possession in Yanomaman languages?
+question_disfluent=0
+question_unreasonable=0
+
+
+603
+Yanomaman_languages
+easy
+Is there a distinction between alienable and inalienable possession in Yanomaman languages?
+question_disfluent=0
+question_unreasonable=0
+
+
+604
+San_Francisco
+hard
+Did manufacturing companies like Levi Strauss and Ghirardelli came to San Francisco after the Pacific Railroad connected to San Francisco?
+question_disfluent=0
+question_unreasonable=0
+
+
+604
+San_Francisco
+hard
+Did manufacturing companies like Levi Strauss and Ghirardelli came to San Francisco after the Pacific Railroad connected to San Francisco?
+question_disfluent=0
+question_unreasonable=0
+
+
+604
+San_Francisco
+hard
+Did manufacturing companies like Levi Strauss and Ghirardelli came to San Francisco after the Pacific Railroad connected to San Francisco?
+question_disfluent=0
+question_unreasonable=0
+
+
+604
+San_Francisco
+hard
+Did manufacturing companies like Levi Strauss and Ghirardelli came to San Francisco after the Pacific Railroad connected to San Francisco?
+question_disfluent=0
+question_unreasonable=0
+
+
+605
+San_Francisco
+hard
+Is the University of San Francisco older than San Francisco State University?
+question_disfluent=0
+question_unreasonable=0
+
+
+605
+San_Francisco
+hard
+Is the University of San Francisco older than San Francisco State University?
+question_disfluent=0
+question_unreasonable=0
+
+
+605
+San_Francisco
+hard
+Is the University of San Francisco older than San Francisco State University?
+question_disfluent=0
+question_unreasonable=0
+
+
+605
+San_Francisco
+hard
+Is the University of San Francisco older than San Francisco State University?
+question_disfluent=0
+question_unreasonable=0
+
+
+606
+San_Francisco
+hard
+Who came to San Francisco first: the Spanish or the English?
+question_disfluent=0
+question_unreasonable=0
+
+
+606
+San_Francisco
+hard
+Who came to San Francisco first: the Spanish or the English?
+question_disfluent=0
+question_unreasonable=0
+
+
+606
+San_Francisco
+hard
+Who came to San Francisco first: the Spanish or the English?
+question_disfluent=0
+question_unreasonable=0
+
+
+606
+San_Francisco
+hard
+Who came to San Francisco first: the Spanish or the English?
+question_disfluent=0
+question_unreasonable=0
+
+
+607
+San_Francisco
+medium
+How much of San Francisco was destroyed by the 1906 earthquake and fire?
+question_disfluent=0
+question_unreasonable=0
+
+
+607
+San_Francisco
+medium
+How much of San Francisco was destroyed by the 1906 earthquake and fire?
+question_disfluent=0
+question_unreasonable=0
+
+
+607
+San_Francisco
+medium
+How much of San Francisco was destroyed by the 1906 earthquake and fire?
+question_disfluent=0
+question_unreasonable=0
+
+
+607
+San_Francisco
+medium
+How much of San Francisco was destroyed by the 1906 earthquake and fire?
+question_disfluent=0
+question_unreasonable=0
+
+
+608
+San_Francisco
+medium
+In what year did colonists from Spain establish a fort at the Golden Gate?
+question_disfluent=0
+question_unreasonable=0
+
+
+608
+San_Francisco
+medium
+In what year did colonists from Spain establish a fort at the Golden Gate?
+question_disfluent=0
+question_unreasonable=0
+
+
+608
+San_Francisco
+medium
+In what year did colonists from Spain establish a fort at the Golden Gate?
+question_disfluent=0
+question_unreasonable=0
+
+
+608
+San_Francisco
+medium
+In what year did colonists from Spain establish a fort at the Golden Gate?
+question_disfluent=0
+question_unreasonable=0
+
+
+609
+San_Francisco
+medium
+How many people live in the San Francisco Bay Area?
+question_disfluent=0
+question_unreasonable=0
+
+
+609
+San_Francisco
+medium
+How many people live in the San Francisco Bay Area?
+question_disfluent=0
+question_unreasonable=0
+
+
+609
+San_Francisco
+medium
+How many people live in the San Francisco Bay Area?
+question_disfluent=0
+question_unreasonable=0
+
+
+609
+San_Francisco
+medium
+How many people live in the San Francisco Bay Area?
+question_disfluent=0
+question_unreasonable=0
+
+
+610
+San_Francisco
+easy
+Did the USS San Francisco ever pass under the Golden Gate Bridge?
+question_disfluent=0
+question_unreasonable=0
+
+
+610
+San_Francisco
+easy
+Did the USS San Francisco ever pass under the Golden Gate Bridge?
+question_disfluent=0
+question_unreasonable=0
+
+
+610
+San_Francisco
+easy
+Did the USS San Francisco ever pass under the Golden Gate Bridge?
+question_disfluent=0
+question_unreasonable=0
+
+
+610
+San_Francisco
+easy
+Did the USS San Francisco ever pass under the Golden Gate Bridge?
+question_disfluent=0
+question_unreasonable=0
+
+
+611
+San_Francisco
+easy
+Is there evidence of human habitation of San Francisco in 3000 BC?
+question_disfluent=0
+question_unreasonable=0
+
+
+611
+San_Francisco
+easy
+Is there evidence of human habitation of San Francisco in 3000 BC?
+question_disfluent=0
+question_unreasonable=0
+
+
+611
+San_Francisco
+easy
+Is there evidence of human habitation of San Francisco in 3000 BC?
+question_disfluent=0
+question_unreasonable=0
+
+
+611
+San_Francisco
+easy
+Is there evidence of human habitation of San Francisco in 3000 BC?
+question_disfluent=0
+question_unreasonable=0
+
+
+612
+San_Francisco
+easy
+Is San Francisco in California?
+question_disfluent=0
+question_unreasonable=0
+
+
+612
+San_Francisco
+easy
+Is San Francisco in California?
+question_disfluent=0
+question_unreasonable=0
+
+
+612
+San_Francisco
+easy
+Is San Francisco in California?
+question_disfluent=0
+question_unreasonable=0
+
+
+612
+San_Francisco
+easy
+Is San Francisco in California?
+question_disfluent=0
+question_unreasonable=0

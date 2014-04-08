@@ -1,0 +1,474 @@
+(dp0
+S'What happened in 1995?'
+p1
+(lp2
+S'The English name was officially changed to Mumbai in November 1995.'
+p3
+asS'Is in the island City, the average maximum temperature  ?'
+p4
+(lp5
+S'In the Island City, the average maximum temperature is  , while the average minimum temperature is  .'
+p6
+asS'What happened in 1739?'
+p7
+(lp8
+S'The Portuguese presence ended in Bombay when the Marathas under Peshwa Baji Rao I captured Salsette in 1737, and Bassein in 1739.'
+p9
+asS'Is cell phone coverage extensive?'
+p10
+(lp11
+S'Cell phone coverage is extensive, and the main service providers are Vodafone Essar, Airtel, MTNL, Loop Mobile, Reliance Communications, Idea Cellular and Tata Indicom.'
+p12
+asS'According to the information given in the article, was it later occupied by the Romans?'
+p13
+(lp14
+S'It was later occupied by the Romans.'
+p15
+asS'Is the seven-hundred year-old Matthias Church one of the jewels of Budapest?'
+p16
+(lp17
+S'The seven-hundred year-old Matthias Church is one of the jewels of Budapest.'
+p18
+asS'Was Mumbai not ranked among the fastest cities in the country for business startup in 2009?'
+p19
+(lp20
+S'Mumbai was ranked among the fastest cities in the country for business startup in 2009.'
+p21
+asS'Was not it this compromise which opened the second great phase of development in the history of Budapest?'
+p22
+(lp23
+S'It was this compromise which opened the second great phase of development in the history of Budapest, lasting until World War I.'
+p24
+asS'Is the Mal\xc3\xa9v Hunagrian Airlines based in Budapest?'
+p25
+(lp26
+S'The Mal\xc3\xa9v Hunagrian Airlines is based in Budapest.'
+p27
+asS'What is the significance of 24 December 1944?'
+p28
+(lp29
+S'From 24 December 1944 to 13 February 1945, the city was besieged during the Battle of Budapest.'
+p30
+asS'What is the significance of 27 March 1668?'
+p31
+(lp32
+S'These islands were in turn leased to the British East India Company in 1668 for a sum of \xc2\xa310 per annum by the Royal Charter of 27 March 1668.'
+p33
+asS'Was not this when the spa and treatment centre were founded?'
+p34
+(lp35
+S'This was also when the spa and treatment centre were founded.'
+p36
+asS'What happened in 1942?'
+p37
+(lp38
+S'As the capital of the Bombay Presidency, it witnessed the Indian independence movement, with the Quit India Movement in 1942 and The Royal Indian Navy Mutiny in 1946 being its most notable events.'
+p39
+asS'Is the city also home to Hungarian bandy?'
+p40
+(lp41
+S'The city is also home to Hungarian bandy.'
+p42
+asS'What happened in 1395?'
+p43
+(lp44
+S'After the foundation of the first Hungarian university in P\xc3\xa9cs in 1367,    the second one was established in \xc3\x93buda in 1395.'
+p45
+asS'Was it later occupied by the Romans?'
+p46
+(lp47
+S'It was later occupied by the Romans.'
+p48
+asS'Was not hungary then incorporated into the Habsburg Empire?'
+p49
+(lp50
+S'Hungary was then incorporated into the Habsburg Empire.'
+p51
+asS'Is having said this, baim an archaic?'
+p52
+(lp53
+S'Having said this, baim is an archaic, masculine word for "little bay".'
+p54
+asS'What happened in 1831?'
+p55
+(lp56
+S'One of the first occurrences of the combined name "Buda-Pest" was in 1831 in the book "Vil\xc3\xa1g" ("World" / "Light"), written by Count Istv\xc3\xa1n Sz\xc3\xa9chenyi  B\xc3\xa1cskai Vera: Sz\xc3\xa9chenyi tervei Pest-Buda felemel\xc3\xa9s\xc3\xa9re \xc3\xa9s sz\xc3\xa9p\xc3\xadt\xc3\xa9s\xc3\xa9re .'
+p57
+asS'Is the largest telephone service provider the state-owned MtNL?'
+p58
+(lp59
+S'The largest telephone service provider is the state-owned MTNL, which held a monopoly over fixed line and cellular services up until 2000, and provides fixed line as well as mobile WLL services.'
+p60
+asS'What happened in 1955?'
+p61
+(lp62
+S'The States Reorganisation Committee recommended a bilingual state for Maharashtra\xe2\x80\x93Gujarat with Bombay as its capital in its 1955 report.'
+p63
+asS'What is the significance of 26 May 1989?'
+p64
+(lp65
+S"The Jawaharlal Nehru Port, which currently handles 55\xe2\x80\x9360% of India's containerised cargo, was commissioned on 26 May 1989 at Nhava Sheva with a view to de-congest Bombay Harbour and to serve as a hub port for the city."
+p66
+asS'What happened in 1919?'
+p67
+(lp68
+S'Budapest was the focal point of the Hungarian Revolution of 1848, the Hungarian Soviet Republic of 1919, Operation Panzerfaust in 1944, the Battle of Budapest of 1945, and the Revolution of 1956.'
+p69
+asS'What is the significance of 1 December 1885?'
+p70
+(lp71
+S'The first session of the Indian National Congress was held in Bombay from 28\xe2\x80\x9331 December 1885.'
+p72
+asS'What happened in 1982?'
+p73
+(lp74
+S"In the early 1970s, Budapest Metro's East-West M2 line was first opened, followed by the M3 line in 1982."
+p75
+asS'What is the largest island of the River Danube in Hungary?'
+p76
+(lp77
+S'*Csepel Island ( ) is the largest island of the River Danube in Hungary.'
+p78
+asS'Is the water filtered at Bhandup?'
+p79
+(lp80
+S"The water is filtered at Bhandup,  which is Asia's largest water filtration plant."
+p81
+asS'Was not it later occupied by the Romans?'
+p82
+(lp83
+S'It was later occupied by the Romans.'
+p84
+asS'Is the Banganga Festival a two-day music festival?'
+p85
+(lp86
+S'The Banganga Festival is a two-day music festival, held annually in the month of January, which is organised by the Maharashtra Tourism Development Corporation (MTDC) at the historic Banganga Tank in Mumbai.'
+p87
+asS'What happened in 1689?'
+p88
+(lp89
+S'Towards the end of the 17th century, the islands again suffered incursions from Yakut Khan in 1689\xe2\x80\x9390.'
+p90
+asS'Is ring road (beltway) M0 around Budapest nearly completed?'
+p91
+(lp92
+S'Ring road (beltway) M0 around Budapest is nearly completed, with only one section missing on the west side due to local disputes.'
+p93
+asS'What is the significance of 20 February 1673?'
+p94
+(lp95
+S'The islands were subsequently attacked by Yakut Khan, the Siddi admiral of the Mughal Empire, in October 1672,    Rickloffe van Goen, the Governor-General of Dutch India on 20 February 1673,    and Siddi admiral Sambal on 10 October 1673.'
+p96
+asS'What happened in 1939?'
+p97
+(lp98
+S'Pleistocene sediments found along the coastal areas around Kandivali in northern Mumbai by archaeologist Todd in 1939 suggest that the islands were inhabited since the Stone Age.'
+p99
+asS'What happened in 1565?'
+p100
+(lp101
+S'Construction of the Kir\xc3\xa1ly Baths started in 1565, and most of the present-day building dates from the Turkish period, including most notably the fine cupola-topped pool.'
+p102
+asS'What happened in 1832?'
+p103
+(lp104
+S'Bombay Durpan, the first Marathi newspaper, was started by Balshastri Jambhekar in Mumbai in 1832.'
+p105
+asS'According to the information given in the article, was it this compromise which opened the second great phase of development in the history of Budapest?'
+p106
+(lp107
+S'It was this compromise which opened the second great phase of development in the history of Budapest, lasting until World War I.'
+p108
+asS'Is the architecture of the city a blend of Gothic Revival?'
+p109
+(lp110
+S'The architecture of the city is a blend of Gothic Revival, Indo-Saracenic, Art Deco, and other contemporary styles.'
+p111
+asS"Is india's first underground water tunnel being built in Mumbai?"
+p112
+(lp113
+S"India's first underground water tunnel is being built in Mumbai."
+p114
+asS'Was it this compromise which opened the second great phase of development in the history of Budapest?'
+p115
+(lp116
+S'It was this compromise which opened the second great phase of development in the history of Budapest, lasting until World War I.'
+p117
+asS'What is the population density of Mumbai?'
+p118
+(lp119
+S'The population density is estimated to be about 20,482 persons per square kilometre.'
+p120
+asS'What is the significance of 1 May 1960?'
+p121
+(lp122
+S"Public holidays specific to the city and the state include Maharashtra Day on 1 May, to celebrate the formation of Maharashtra state on 1 May 1960,       and Gudi Padwa which is the New Year's Day for Marathi people."
+p123
+asS'What is the significance of 27 January 1962?'
+p124
+(lp125
+S'The record high is   on 28 March 1982,    and the record low is   on 27 January 1962.'
+p126
+asS'Is mumbai served by two major ports?'
+p127
+(lp128
+S'Mumbai is served by two major ports, Mumbai Port Trust and Jawaharlal Nehru Port Trust, which lies just across the creek in Navi Mumbai.'
+p129
+asS'What is the significance of 13 February 1945?'
+p130
+(lp131
+S'From 24 December 1944 to 13 February 1945, the city was besieged during the Battle of Budapest.'
+p132
+asS'Is the lowest point the line of the Danube which   above sea level?'
+p133
+(lp134
+S'The lowest point is the line of the Danube which is   above sea level.'
+p135
+asS'What is the significance of 1 October 1990?'
+p136
+(lp137
+S'On 1 October 1990, the Greater Bombay district was bifurcated to form two revenue districts namely, Bombay City and Bombay Suburban, though they were administered by same Municipal Administration.'
+p138
+asS'According to the information given in the article, was Budapest the host for the ITU Triathlon world Championships 2010?'
+p139
+(lp140
+S'Budapest was the host for the ITU Triathlon World Championships 2010, too.'
+p141
+asS'What is the significance of 16 April 1853?'
+p142
+(lp143
+S"On 16 April 1853, India's first passenger railway line was established, connecting Bombay to the neighbouring town of Thane."
+p144
+asS'Is northern Mumbai (Salsette) hilly?'
+p145
+(lp146
+S'Northern Mumbai (Salsette) is hilly,    and the highest point in the city is 450 m (1,476 ft) at Salsette in the Powai-Kanheri ranges.'
+p147
+asS'What is the significance of 28 March 1982?'
+p148
+(lp149
+S'The record high is   on 28 March 1982,    and the record low is   on 27 January 1962.'
+p150
+asS'What happened in 1431?'
+p151
+(lp152
+S'The Haji Ali Dargah was built in 1431, when Mumbai was under the rule of the Gujarat Sultanate'
+p153
+asS'Is terminal 3 planned to be built?'
+p154
+(lp155
+S'Terminal 3 is planned to be built.'
+p156
+asS'Is industry rather in the suburbs?'
+p157
+(lp158
+S'Industry is rather in the suburbs, the centre is place for the main national and international service and financial companies like Hungarian Telekom, General Electric, Vodafone, Telenor, Erste Bank, CIB Bank, K&H Bank&Insurance, UniCredit, Budapest Bank, Generali Providencia Insurance, ING, Aegon Insurance, Allianz.'
+p159
+asS'Was hungary then incorporated into the Habsburg Empire?'
+p160
+(lp161
+S'Hungary was then incorporated into the Habsburg Empire.'
+p162
+asS'What is the population of Budapest?'
+p163
+(lp164
+S'Research places the probable residence of the \xc3\x81rp\xc3\xa1ds as an early place of central power near what became Budapest.'
+p165
+asS'Is the port and shipping industry well established?'
+p166
+(lp167
+S'The port and shipping industry is well established, with Mumbai Port being one of the oldest and most significant ports in India.'
+p168
+asS'What is the significance of 26 January 1975?'
+p169
+(lp170
+S'The Bombay Metropolitan Region Development Authority (BMRDA) was set up on 26 January 1975 by the Government of Maharashtra as an apex body for planning and co-ordination of development activities in the Bombay metropolitan region.'
+p171
+asS'Is the record high   on 28 March 1982?'
+p172
+(lp173
+S'The record high is   on 28 March 1982,    and the record low is   on 27 January 1962.'
+p174
+asS'What happened in 1873?'
+p175
+(lp176
+S'In 1873 Buda and Pest were officially merged with the third part, \xc3\x93buda (Ancient Buda), thus creating the new metropolis of Budapest.'
+p177
+asS'What happened in 1863?'
+p178
+(lp179
+S'The Yellow line, built in 1896, is one of the oldest subway lines in the world, following the London Underground built in 1863.'
+p180
+asS'Is budapest the centre of services?'
+p181
+(lp182
+S'Budapest is the centre of services, financial counselling, money transactions, commercial and estate services.'
+p183
+asS'Is budapest ( ,   or  ;  ; names in other languages) the capital of Hungary?'
+p184
+(lp185
+S'Budapest ( ,   or  ;  ; names in other languages) is the capital of Hungary.'
+p186
+asS'Was Budapest not the focal point of the Hungarian Revolution of 1848?'
+p187
+(lp188
+S'Budapest was the focal point of the Hungarian Revolution of 1848, the Hungarian Soviet Republic of 1919, Operation Panzerfaust in 1944, the Battle of Budapest of 1945, and the Revolution of 1956.'
+p189
+asS'What happened in 1526?'
+p190
+(lp191
+S'The Mughal Empire, founded in 1526, was the dominant power in the Indian subcontinent during the mid-16th century.'
+p192
+aS'The Ottomans pillaged Buda in 1526, besieged it in 1529, and finally occupied it in 1541.'
+p193
+asS'What is the significance of 12 March 1993?'
+p194
+(lp195
+S'On 12 March 1993, a series of 13 co-ordinated bombings at several city landmarks by Islamic extremists and the Bombay underworld resulted in 257 deaths and over 700 injuries.'
+p196
+asS'Is budapest public transport provided by bKV?'
+p197
+(lp198
+S'Budapest public transport is provided by BKV,    the company operates buses, trolleybuses, trams, suburban railway lines, the metro, a boat service, a cogwheel railway, a funicular, and a chairlift, called Libeg\xc5\x91.'
+p199
+asS'Was Budapest not one of the main stops of the Orient Express until 2001?'
+p200
+(lp201
+S'Budapest was one of the main stops of the Orient Express until 2001, when the service was cut back to Paris-Vienna.'
+p202
+asS'What is the population density of Budapest?'
+p203
+(lp204
+S'Research places the probable residence of the \xc3\x81rp\xc3\xa1ds as an early place of central power near what became Budapest.'
+p205
+asS'Is the average annual temperature  ?'
+p206
+(lp207
+S'The average annual temperature is  , and the average annual precipitation is  .'
+p208
+asS'Is the Budapest Commuter Area home to 3,284,110 people?'
+p209
+(lp210
+S'The Budapest Commuter Area is home to 3,284,110 people.'
+p211
+asS'According to the information given in the article, was Budapest the focal point of the Hungarian Revolution of 1848?'
+p212
+(lp213
+S'Budapest was the focal point of the Hungarian Revolution of 1848, the Hungarian Soviet Republic of 1919, Operation Panzerfaust in 1944, the Battle of Budapest of 1945, and the Revolution of 1956.'
+p214
+asS'Is the population density estimated to be about 20?'
+p215
+(lp216
+S'The population density is estimated to be about 20,482 persons per square kilometre.'
+p217
+asS'What happened in 1241?'
+p218
+(lp219
+S'Their first settlement was pillaged by the Mongols in 1241-42.'
+p220
+asS'What kind of transportation exists in Budapest?'
+p221
+(lp222
+S'The synagogue is located in the Jewish district taking up several blocks in central Budapest bordered by Kir\xc3\xa1ly utca, Wessel\xc3\xa9nyi utca, Grand Boulevard (Budapest) and Bajcsy Zsilinszky road.'
+p223
+asS'Is the three outdoor pools (one of which a fun pool) are open all year?'
+p224
+(lp225
+S'The three outdoor pools (one of which is a fun pool) are open all year, including winter.'
+p226
+asS'What happened in 1668?'
+p227
+(lp228
+S'These islands were in turn leased to the British East India Company in 1668 for a sum of \xc2\xa310 per annum by the Royal Charter of 27 March 1668.'
+p229
+asS'What happened in 1675?'
+p230
+(lp231
+S'The population quickly rose from 10,000 in 1661, to 60,000 in 1675.'
+p232
+asS'What happened in 1869?'
+p233
+(lp234
+S'The opening of the Suez Canal in 1869 transformed Bombay into one of the largest seaports on the Arabian Sea.'
+p235
+asS'What is the significance of 10 October 1673?'
+p236
+(lp237
+S'The islands were subsequently attacked by Yakut Khan, the Siddi admiral of the Mughal Empire, in October 1672,    Rickloffe van Goen, the Governor-General of Dutch India on 20 February 1673,    and Siddi admiral Sambal on 10 October 1673.'
+p238
+asS'What happened in 1896?'
+p239
+(lp240
+S'The Yellow line, built in 1896, is one of the oldest subway lines in the world, following the London Underground built in 1863.'
+p241
+asS'What happened in 1782?'
+p242
+(lp243
+S'One of the oldest universities of technology in the World, founded in 1782.'
+p244
+asS'What happened in 1918?'
+p245
+(lp246
+S'In 1918 Austria-Hungary lost the war and collapsed; Hungary declared itself an independent republic.'
+p247
+asS'What kind of transportation exists in Mumbai?'
+p248
+(lp249
+S'The Haji Ali Dargah was built in 1431, when Mumbai was under the rule of the Gujarat Sultanate'
+p250
+asS'What happened in 1934?'
+p251
+(lp252
+S'In 1927 the Baths were extended to include the wave pool, and the effervescent bath was added in 1934.'
+p253
+asS'Is the total area of Mumbai 603.4 km 2  (233 sq mi)?'
+p254
+(lp255
+S'The total area of Mumbai is 603.4 km 2  (233 sq mi).'
+p256
+asS'In what country is Budapest?'
+p257
+(lp258
+S'The synagogue is located in the Jewish district taking up several blocks in central Budapest bordered by Kir\xc3\xa1ly utca, Wessel\xc3\xa9nyi utca, Grand Boulevard (Budapest) and Bajcsy Zsilinszky road.'
+p259
+asS"Is budapest's tram network extensive?"
+p260
+(lp261
+S"Budapest's tram network is extensive, and reliable despite poor track infrastructure and an ageing fleet."
+p262
+asS'According to the information given in the article, was hungary then incorporated into the Habsburg Empire?'
+p263
+(lp264
+S'Hungary was then incorporated into the Habsburg Empire.'
+p265
+asS'Was Budapest the focal point of the Hungarian Revolution of 1848?'
+p266
+(lp267
+S'Budapest was the focal point of the Hungarian Revolution of 1848, the Hungarian Soviet Republic of 1919, Operation Panzerfaust in 1944, the Battle of Budapest of 1945, and the Revolution of 1956.'
+p268
+asS'What is the significance of 19 June 1966?'
+p269
+(lp270
+S'The 1960s saw the rise of regionalist politics in Bombay, with the formation of the Shiv Sena on 19 June 1966, out of a feeling of resentment about the relative marginalisation of the native Marathi people in Bombay.'
+p271
+asS'What is the significance of 11 May 1661?'
+p272
+(lp273
+S"On 11 May 1661, the marriage treaty of Charles II of England and Catherine of Braganza, daughter of King John IV of Portugal, placed the islands in possession of the British Empire, as part of Catherine's dowry to Charles."
+p274
+asS'What is the significance of 26 July 2005?'
+p275
+(lp276
+S'The highest rainfall recorded in a single day was   on 26 July 2005.'
+p277
+asS'Is zing a popular Bollywood gossip channel also based out of Mumbai?'
+p278
+(lp279
+S'Zing a popular Bollywood gossip channel is also based out of Mumbai.Satellite television (DTH) has yet to gain mass acceptance, due to high installation costs.'
+p280
+asS'What happened in 1947?'
+p281
+(lp282
+S"After India's independence in 1947, the territory of the Bombay Presidency retained by India was restructured into Bombay State."
+p283
+as.
