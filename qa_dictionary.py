@@ -3,35 +3,54 @@
 import sys
 import pickle
 
-questionfile = sys.argv[1]
-answerfile = sys.argv[2]
+questionFile = sys.argv[1]
+answerFile = sys.argv[2]
 
-qadict = dict()
+questAnsDict = dict()
 
-qafile = open('qa.dictionary','r')
-qadict = pickle.load(qafile)
-qafile.close()
+questAnsFile = open('qa.dictionary','r')
+questAnsDict = pickle.load(questAnsFile)
+questAnsFile.close()
 
-qf = open(questionfile,'r')
-af = open(answerfile,'r')
+questFileContents = getFileContents(questionfile)
+ansFileContents = getFileContents(answerfile)
 
-questions = qf.read().strip().split('\n')
-answers = af.read().strip().split('\n')
+questions = stripAndSplit(questFileContents, '\n')
+answers = stripAndSplit(ansFileContents, '\n')
 
-qalen = len(questions)
+questAnsLength = len(questions)
 
-for i in range(qalen):
-  q = questions[i]
-  a = answers[i]
+questAnsDict = eliminateRepeats(questions, answers, questAnsDict, questAnsLength)
 
-  if not q in qadict:
-    qadict[q] = []
-  
-  if not a in qadict[q]:
-    qadict[q].append(a)
+questAnsFile = open('qa.dictionary','w')
+pickle.dump(questAnsDict,questAnsFile)
+questAndFile.close()
 
-qafile = open('qa.dictionary','w')
-pickle.dump(qadict,qafile)
-qafile.close()
 
-#print qadict
+#This allows us to test if getting a file's contents has worked before we try to use the contents of the file for anything
+def getFileContents(fileToOpen):
+  tempFile = open(fileToOpen, 'r')
+  return fileToOpen
+
+#This used to be done all at once, which violated the Law of Demeter. Now it is seperate, which allows us to test each step
+#Also allows us to now pass in different values to split on
+def stripAndSplit(fileContents, splitOn):
+  readIt = fileContents.read()
+  stripIt = readIt.strip()
+  splitIt = stripIt.split(splitOn)
+  return splitIt
+
+#It was not clear what this code did before, but now that it is labeled and the variable names are changed, it is more clear.
+#In addition, because it returns a value, we can test it more easily
+def eliminateRepeats(quests, ans, qADict, qADictLength):
+  for i in range(qADictLength):
+    q = quests[i]
+    a = ans[i]
+
+    if not q in qADict:
+      qADict[q] = []
+
+    if not a in qADict:
+      qADict[q].append(a) 
+
+  return qADict

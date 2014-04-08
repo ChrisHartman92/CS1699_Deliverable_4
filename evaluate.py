@@ -3,6 +3,7 @@ from __future__ import division
 import en
 import nltk
 import pickle
+
 questions=open('questfile')
 taggedquestions=[]
 for line in questions:
@@ -13,12 +14,6 @@ for line in questions:
         tagtext+=qtag[:2]+'#'
     taggedquestions.append(tagtext)
 questions.close()
-
-#qafile = open('qa.dictionary')
-#qadict = pickle.load(qafile)
-#qafile.close()
-
-#qs = qadict.keys()
 
 def question_score(quest):
     tagged=en.sentence.tag(quest)
@@ -49,19 +44,3 @@ def answer_score(quest,answer):
         mindist = distance
         minindex = i
     # closest answer is now in answers[minindex]
-
-'''
-    tagged=en.sentence.tag(quest)
-    sample=''
-    for i in range(len(tagged)):
-        tag=tagged[i][1]
-        sample+=tag[:2]+'#'
-    fluency=0
-    minlen=1000
-    for item in taggedquestions:
-        distance=nltk.metrics.edit_distance(sample, item)
-        if distance<minlen:
-            minlen=distance
-    fluency= minlen
-    return fluency
-'''

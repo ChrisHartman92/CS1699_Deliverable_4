@@ -2,9 +2,9 @@
 
 import nltk
 
-f = open("raw_questions.txt","r")
-contents = f.read()
-f.close()
+rawQuestFile = open("raw_questions.txt","r")
+contents = rawQuestFile.read()
+rawQuestFile.close()
 
 questions = contents.split("\n\n")
 
@@ -16,7 +16,7 @@ for q in questions:
   arr.append(data)
   index += 1
 
-f = open("questions_POStagged.txt","w")
+taggedQuestFile = open("questions_POStagged.txt","w")
 for i in range(index):
   data = arr[i]
   #print data
@@ -31,7 +31,7 @@ for i in range(index):
   taglist = nltk.pos_tag(text)
   tagstr = " ".join(map(lambda x: x[1],taglist))
   mystr += tagstr + "\n"
-  f.write(mystr+"\n")
+  taggedQuestFile.write(mystr+"\n")
 
-f.close()
+taggedQuestFile.close()
 
