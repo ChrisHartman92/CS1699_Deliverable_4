@@ -9,7 +9,6 @@ import re
 import classify
 import pronounce
 import evaluate
-import askfunc
 
 article = sys.argv[1]
 nquestions = int(sys.argv[2])
@@ -21,8 +20,8 @@ sentfile.close()
 cannedarray=[]
 classification = 'person'
 
-cannedarray = askfunc.getClassification(article, sentences)
-askfunc.printQuests(nquestions, cannedarray)
+cannedarray = getClassification(article, sentences)
+printQuests(nquestions, cannedarray)
 
 questionarray=[]
 
@@ -47,7 +46,7 @@ for line in f:
   replaced=0
   for i in range(size):
     if line[i] not in string.whitespace:
-      word = askfunc.fappend(word,line[i])
+      word = fappend(word,line[i])
       if word=='city':
         citycount+=1
     else:
@@ -101,9 +100,9 @@ for line in f:
         break
 
     randvar=random.random()
-    vstring = askfunc.standardize(qstring)
+    vstring = standardize(qstring)
     
-    verbose = askfunc.makeVerbose(vstring)
+    verbose = makeVerbose(vstring)
 
     qtagged = nltk.pos_tag(question)                        
 
@@ -147,7 +146,7 @@ f.seek(0)
       isq=isq.replace(' is ',' ')
       questionarray.append('Is %s?' % (isq[0:len(isq)-1]))'''
 
-askfunc.removeQuestions(questionarray)
+removeQuestions(questionarray)
 
 for line in f:
   for m in re.finditer("[1-2]{0,1}[0-9]\s((January)|(February)|(March)|(April)|(May)|(June)|(July)|(August)|(September)|(October)|(November)|(December))\s([0-2][0-9][0-9][0-9])",line):
@@ -202,6 +201,110 @@ while len(questionarray) < nquestions:
 fqs = random.sample(questionarray,nquestions)
 for q in fqs:
   print q
+
+'Moved code from askfunc.py to satisfy the single responsibility principle. Ask now encapsualtes all of ask and its functions.'
+
+def personQuest(sentences):
+ cannedarray=[]
+ cannedarray.append('On what date was %s born?' % sentences[0].replace('_',' '))
+ cannedarray.append('On what date did %s die?' % sentences[0].replace('_',' '))
+ cannedarray.append('How old was %s when he died?' % sentences[0].replace('_',' '))
+ cannedarray.append('Was %s ever married?' % sentences[0].replace('_',' '))
+ cannedarray.append('Who was %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('Did %s attend college?' % sentences[0].replace('_',' '))
+ cannedarray.append('When did %s come into this world?' % sentences[0].replace('_',' '))
+ cannedarray.append('Does the article mention that %s published anything?' % sentences[0].replace('_',' '))
+ return cannedarray
+
+def languageQuest(sentences): 
+ cannedarray=[]
+ cannedarray.append('Where is the %s spoken?' % sentences[0].replace('_',' '))
+ cannedarray.append('What language family is the %s a part of?' % sentences[0].replace('_',' '))
+ cannedarray.append('Approximately how many people speak the %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('Who speaks the %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('What is the word order in %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('Does the %s have vowels?' % sentences[0].replace('_',' '))
+ cannedarray.append('How many vowels does %s have?' % sentences[0].replace('_',' '))
+ return cannedarray
+
+def cityQuest(sentences):
+ cannedarray=[]
+ cannedarray.append('What is the population of %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('In what country is %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('What is the population density of %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('What kind of transportation exists in %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('Where is %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('How old is %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('What kind of climate does %s have?' % sentences[0].replace('_',' '))
+ return cannedarray
+
+def instrumentQuest(sentences):
+ cannedarray=[]
+ cannedarray.append('What is the %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('How is the %s played?' % sentences[0].replace('_',' '))
+ cannedarray.append('How does one play the %s?' % sentences[0].replace('_',' '))
+ cannedarray.append('Does the %s have strings?' % sentences[0].replace('_',' '))
+ cannedarray.append('Is the %s a wind instrument?' % sentences[0].replace('_',' '))
+ cannedarray.append('Is the %s a percussion instrument?' % sentences[0].replace('_',' '))
+ cannedarray.append('Where does the %s originate?' % sentences[0].replace('_',' '))
+ cannedarray.append('What kind of music is played on the %s?' % sentences[0].replace('_',' '))
+ return cannedarray
+
+def getClassification(article, sentences):
+ classification=classify.classify_article(article)
+ if classification == 'person':
+  return personQuest(sentences)
+ elif classification == 'language':
+  return languageQuest(sentences)
+ elif classification == 'city':
+  return cityQuest(sentences)
+ elif classification == 'instrument':
+  return instrumentQuest(sentences)
+
+def fappend(base,item) :
+  base+=item
+  return base
+
+def printQuests(nquestions,cannedarray) :
+	returnarray = []
+	for i in range(1,nquestions) :
+		print cannedarray[i-1]
+		returnarray.append(cannedarray[i-1])
+		if i == len(cannedarray) :
+			nquestions = nquestions - i
+			break;
+	return returnarray
+
+def makeVerbose(vstring):
+	verbose='According to the information given in the article, '+vstring
+	return verbose
+
+def removeQuestions(questionarray):
+	for q in questionarray:
+		if re.search(r"\(.*who.*\)",q):
+			questionarray.remove(q)
+			continue
+		tokened = tokenize(q)
+		b = shouldCompare(tokened)
+		if b:
+			fluency = getfluency(q)
+			if fluency>6:
+				questionarray.remove(q)
+
+def shouldCompare(tokened):
+	return len(tokened)<10
+
+def tokenize(q):
+	return nltk.word_tokenize(q)
+
+def getfluency(q) :
+	a = evaluate.question_score(q)
+	return a
+
+def standardize(vstring):
+	vstring=vstring.strip()
+	vstring=vstring.replace(vstring[0],vstring[0].lower())
+	return vstring
 
 if __name__ == "__main__":
 	import sys

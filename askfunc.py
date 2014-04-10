@@ -2,11 +2,7 @@ import classify
 import evaluate
 import re
 import nltk
-'''
-	A possible unit test for these four functions found below would be to compare the cannedarray before and after the array. Before should be empty, after should be not.
-	We should probably also check to make sure all underscores are replaced.
-	More unit tests are possible if we really need it as well.
-'''
+
 def personQuest(sentences):
  cannedarray=[]
  cannedarray.append('On what date was %s born?' % sentences[0].replace('_',' '))
