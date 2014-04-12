@@ -1,22 +1,22 @@
 #!/usr/bin/env python
 import nltk
 
-def classify_article(filename):
+def classify_article(fileName):
 
   # list of instruments compiled from wikipedia
-  instlist = open('instruments.txt')
+  instFileContents = open('instruments.txt')
   instrumentlist = []
-  for line in instlist:
+  for line in instFileContents:
     instrumentlist.append(line.strip())
-  instlist.close()
+  instFileContents.close()
   
   # some constants for classifying cities
   city = 'city'
-  citythreshold=15
+  cityThreshold=15
   
-  doc=open(filename,'r')
+  doc=open(fileName,'r')
   
-  lines=doc.read().strip().split('\n')
+  lines = stripAndSplit(doc, '\n')
  
   if 'language' in lines[0]:
     return 'language'
@@ -32,8 +32,14 @@ def classify_article(filename):
       if token == 'city':
         count+=1
 
-  if count>citythreshold:
+  if count>cityThreshold:
       return 'city'
 
   return 'person'
 
+
+def stripAndSplit(fileContents, splitOn):
+  readIt = fileContents.read()
+  stripIt = readIt.strip()
+  splitIt = stripIt.split(splitOn)
+  return splitIt

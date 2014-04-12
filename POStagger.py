@@ -5,26 +5,26 @@ import string
 import nltk.data
 import sys
 
-filename=sys.argv[1]
-infpt = filename+'.txt'
-tags = filename+'.tgs'
-sents = filename + '.sentences'
+fileName=sys.argv[1]
+textFile = fileName+'.txt'
+tags = fileName+'.tgs'
+sents = fileName + '.sentences'
 
-f = open(infpt)
-text=f.read()
-f.close()
-tokenizer=nltk.data.load('tokenizers/punkt/english.pickle')
-stokentext=tokenizer.tokenize(text.strip())
+textContents = open(textFile)
+text = textContents.read()
+textContents.close()
+tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+strippedToken = tokenizer.tokenize(text.strip())
 
-g=open(sents,"w")
-h=open(tags,"w")
-for line in stokentext:
-    wtokentext = nltk.word_tokenize(line)
-    taggedtext = nltk.pos_tag(wtokentext)
-    for item in taggedtext:
-        h.write(str(item[1])+' ')
-        g.write(str(item[0])+' ')
-    g.write('\n')
-    h.write('\n')
-g.close()
-h.close()
+sentContents = open(sents,"w")
+tagContents = open(tags,"w")
+for line in strippedToken:
+    wordToken = nltk.word_tokenize(line)
+    taggedText = nltk.pos_tag(wordToken)
+    for item in taggedText:
+        tagContents.write(str(item[1])+' ')
+        sentContents.write(str(item[0])+' ')
+    sentContents.write('\n')
+    tagContents.write('\n')
+sentContents.close()
+tagContents.close()

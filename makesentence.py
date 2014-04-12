@@ -10,12 +10,12 @@ raw = open(article)
 text=raw.read()
 raw.close()
 
-senttokenizer = nltk.data.load('nltk:tokenizers/punkt/english.pickle')
+sentToken = nltk.data.load('nltk:tokenizers/punkt/english.pickle')
 
-sentname = article + '.sentences'
-sentfile = open(sentname,'w')
+sentName = article + '.sentences'
+sentFile = open(sentName,'w')
 
-for line in senttokenizer.tokenize(text):
-        sentfile.write(line)
-        sentfile.write('\n')
-sentfile.close()
+for line in sentToken.tokenize(text):
+        sentFile.write(line)
+        sentFile.write('\n')
+sentFile.close()

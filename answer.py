@@ -6,13 +6,15 @@ import classify
 import re
 import evaluate
 
-basename = sys.argv[1]
-questions_fname = sys.argv[2]
+baseName = sys.argv[1]
+questionFileName = sys.argv[2]
 
-questionfile = open(questions_fname,"r")
-sentfile = open(basename+".sentences","r")
-sentences = sentfile.read().strip().split('\n')
-sentfile.close()
+questionfile = open(questionFileName,"r")
+sentenceFile = open(baseName+".sentences","r")
+
+sentences = stripAndSplit(sentenceFile, '\n')
+sentenceFile.close()
+
 while '' in sentences:
   sentences.remove('')
 for s in sentences:
@@ -23,6 +25,13 @@ for s in sentences:
 months = ['January','February','March','April','May','June','July','August','September','October','November','December']
 
 #some helper functions
+
+def stripAndSplit(fileContents, splitOn):
+  readIt = fileContents.read()
+  stripIt = readIt.strip()
+  splitIt = stripIt.split(splitOn)
+  return splitIt
+
 def populationDensity(sent1,sent2):
   if 'population density' in sent1:
     return sent1
@@ -59,7 +68,7 @@ def transportationTypes(sent1,sent2):
     return sent2
   return ''
 
-classification = classify.classify_article(basename)
+classification = classify.classify_article(baseName)
 #print classification
 
 # here we attempt to deal with generic known-questions for the different
