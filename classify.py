@@ -5,9 +5,9 @@ def classify_article(fileName):
 
   # list of instruments compiled from wikipedia
   instFileContents = open('instruments.txt')
-  instrumentlist = []
+  instrumentList = []
   for line in instFileContents:
-    instrumentlist.append(line.strip())
+    instrumentList.append(line.strip())
   instFileContents.close()
   
   # some constants for classifying cities
@@ -18,28 +18,35 @@ def classify_article(fileName):
   
   lines = stripAndSplit(doc, '\n')
  
-  if 'language' in lines[0]:
-    return 'language'
+  return checkLanguage(lines)
 
-  if lines[0] in instrumentlist:
-    return 'instrument'
+  return checkInstrument(lines, instrumentList)
 
-  count=0
-
-  for l in lines:
-    line=nltk.word_tokenize(l)
-    for token in line:
-      if token == 'city':
-        count+=1
-
-  if count>cityThreshold:
-      return 'city'
+  return checkCity(lines, cityThreshold)
 
   return 'person'
-
 
 def stripAndSplit(fileContents, splitOn):
   readIt = fileContents.read()
   stripIt = readIt.strip()
   splitIt = stripIt.split(splitOn)
   return splitIt
+
+def checkLanguage(lineList):
+  if 'language' in lineList[0]:
+    return 'language'
+
+def checkInstrument(lineList, instList):
+  if lineList[0] in instList:
+    return 'instrument'
+
+def checkCity(lineList, threshold):
+  count = 0
+  
+  for line in lineList:
+    currLine = nltk.word_tokenize(line)
+    for token in currLine:
+      if token == 'city':
+        count += 1
+  if count > threshold:
+    return 'city'
