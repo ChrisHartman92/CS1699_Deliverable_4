@@ -197,6 +197,10 @@ for q in fqs:
 
 'Moved code from askfunc.py to satisfy the single responsibility principle. Ask now encapsualtes all of ask and its functions.'
 
+#Input: sentence file
+#Output: Array with appropriate canned questions
+#Notes: These questions apply to the category person
+
 def personQuest(sentences):
  cannedArray=[]
  cannedArray.append('On what date was %s born?' % sentences[0].replace('_',' '))
@@ -209,6 +213,10 @@ def personQuest(sentences):
  cannedArray.append('Does the article mention that %s published anything?' % sentences[0].replace('_',' '))
  return cannedArray
 
+#Input: sentence file
+#Output: Array with appropriate canned questions
+#Notes: These questions apply to the category language
+
 def languageQuest(sentences): 
  cannedArray=[]
  cannedArray.append('Where is the %s spoken?' % sentences[0].replace('_',' '))
@@ -220,6 +228,10 @@ def languageQuest(sentences):
  cannedArray.append('How many vowels does %s have?' % sentences[0].replace('_',' '))
  return cannedArray
 
+#Input: sentence file
+#Output: Array with appropriate canned questions
+#Notes: These questions apply to the category city
+
 def cityQuest(sentences):
  cannedArray=[]
  cannedArray.append('What is the population of %s?' % sentences[0].replace('_',' '))
@@ -230,6 +242,10 @@ def cityQuest(sentences):
  cannedArray.append('How old is %s?' % sentences[0].replace('_',' '))
  cannedArray.append('What kind of climate does %s have?' % sentences[0].replace('_',' '))
  return cannedArray
+
+#Input: sentence file
+#Output: Array with appropriate canned questions
+#Notes: These questions apply to the category instrument
 
 def instrumentQuest(sentences):
  cannedArray=[]
@@ -243,6 +259,10 @@ def instrumentQuest(sentences):
  cannedArray.append('What kind of music is played on the %s?' % sentences[0].replace('_',' '))
  return cannedArray
 
+#Input: article file, sentence file
+#Output: Array with the appropraite canned questions
+#Notes: On return calls personQuest, languageQuest, cityQuest, or intrumentQuest
+
 def getClassification(article, sentences):
  classification=classify.classify_article(article)
  if classification == 'person':
@@ -254,9 +274,15 @@ def getClassification(article, sentences):
  elif classification == 'instrument':
   return instrumentQuest(sentences)
 
+#Input: two strings, a base and an item
+#Output: The two input strings combined, with the item appended on to the end of the base
+
 def fappend(base,item) :
   base+=item
   return base
+
+#Input: int for the number of questions to print, an array of questions
+#Ouput: cannedArray[0] - number of questions
 
 def printQuests(numberOfQuestions,cannedArray) :
   returnArray = []
@@ -268,9 +294,15 @@ def printQuests(numberOfQuestions,cannedArray) :
       break;
   return returnArray
 
+#Input: String to be made verbose
+#Output: String with verbose prefix attached
+
 def makeVerbose(verboseString):
   verbose='According to the information given in the article, '+verboseString
   return verbose
+
+#Input: array of questions
+#Output: removes appropriate questions
 
 def removeQuestions(questionArray):
   for q in questionArray:
@@ -284,20 +316,35 @@ def removeQuestions(questionArray):
       if fluency>6:
         questionArray.remove(q)
 
+#Input: tokened string
+#Output: boolean representing whether the string should be compared
+
 def shouldCompare(tokened):
   return len(tokened)<10
 
+#Input: string to be tokenized
+#Output: tokenized string
+
 def tokenize(q):
   return nltk.word_tokenize(q)
+
+#Input: string to evaluate
+#Ouput: fluency of input string
 
 def getFluency(q) :
   a = evaluate.question_score(q)
   return a
 
+#Input: Verbose string
+#Ouput: Standerdized (lower case) verbose string
+
 def standardize(verboseString):
   verboseString = verboseString.strip()
   verboseString = verboseString.replace(verboseString[0],verboseString[0].lower())
   return verboseString
+
+#Input: contents of file, string to split on
+#Output: contents of file stripped and split on input string
 
 def stripAndSplit(fileContents, splitOn):
   readIt = fileContents.read()
