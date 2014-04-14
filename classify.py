@@ -1,52 +1,54 @@
 #!/usr/bin/env python
 import nltk
+def stripAndSplit(fileContents, splitOn):
+	readIt = fileContents.read()
+	stripIt = readIt.strip()
+	splitIt = stripIt.split(splitOn)
+	return splitIt
+
+def checkLanguage(lineList):
+	if 'language' in lineList[0]:
+		return True
+
+def checkInstrument(lineList, instList):
+	if lineList[0] in instList:
+		return True
+
+def checkCity(lineList, threshold):
+	count = 0
+	
+	for line in lineList:
+		currLine = nltk.word_tokenize(line)
+		for token in currLine:
+			if token == 'city':
+				count += 1
+	if count > threshold:
+		return True
 
 def classify_article(fileName):
 
-  # list of instruments compiled from wikipedia
-  instFileContents = open('instruments.txt')
-  instrumentList = []
-  for line in instFileContents:
-    instrumentList.append(line.strip())
-  instFileContents.close()
-  
-  # some constants for classifying cities
-  city = 'city'
-  cityThreshold=15
-  
-  doc=open(fileName,'r')
-  
-  lines = stripAndSplit(doc, '\n')
- 
-  return checkLanguage(lines)
+	# list of instruments compiled from wikipedia
+	instFileContents = open('instruments.txt')
+	instrumentList = []
+	for line in instFileContents:
+		instrumentList.append(line.strip())
+	instFileContents.close()
 
-  return checkInstrument(lines, instrumentList)
+	# some constants for classifying cities
+	city = 'city'
+	cityThreshold=15
 
-  return checkCity(lines, cityThreshold)
+	doc=open(fileName,'r')
 
-  return 'person'
+	lines = stripAndSplit(doc, '\n')
+	if (checkLanguage(lines)):
+		return 'language'
 
-def stripAndSplit(fileContents, splitOn):
-  readIt = fileContents.read()
-  stripIt = readIt.strip()
-  splitIt = stripIt.split(splitOn)
-  return splitIt
+	if (checkInstrument(lines, instrumentList)):
+		 return 'instrument'
 
-def checkLanguage(lineList):
-  if 'language' in lineList[0]:
-    return 'language'
+	if (checkCity(lines, cityThreshold)):
+		return 'city'
 
-def checkInstrument(lineList, instList):
-  if lineList[0] in instList:
-    return 'instrument'
+	return 'person'
 
-def checkCity(lineList, threshold):
-  count = 0
-  
-  for line in lineList:
-    currLine = nltk.word_tokenize(line)
-    for token in currLine:
-      if token == 'city':
-        count += 1
-  if count > threshold:
-    return 'city'
