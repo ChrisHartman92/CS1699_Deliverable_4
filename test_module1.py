@@ -518,6 +518,55 @@ class TestClassification(unittest.TestCase) :
 		f = open('mock_file','r')
 		ret_sent = ask.stripAndSplit(f, ' ')
 		self.assertEquals(ret_sent, ['a','man', 'a', 'plan', 'a', 'canal', 'panama'])	
+
+	'''
+		Function under test: answer_score
+		Location of function: evaluate
+		Purpose of test: to make sure that evaluate is calculating the edit distance to obtain a score for answers
+	'''
+	@patch('nltk.metrics.edit_distance')
+	def test_answer_score(self, mock_distance):
+		mock_distance.return_value = 20
+		mock = MagicMock()
+		with mock as answer:
+			evaluate.answer_score('this is a sentence', answer)
+		mock_distance.assert_called() 
+
+	'''
+		Function under test: answer_score
+		Location of function: evaluate
+		Purpose of test: to make sure that evaluate is not wasting effort by tagging the questions for part of speech as part of the scoring process 
+	'''
+	@patch('en.sentence.tag')
+	def test_answer_score_tag(self, mock_tag):
+		mock = MagicMock()
+		with mock as answer:
+			evaluate.answer_score('this is a sentence', answer)
+		assert not mock_tag.called
+
+	'''
+		Function under test: question_score
+		Location of function: evaluate
+		Purpose of test: to make sure that evaluate is tagging the questions for part of speech as part of the scoring process 
+	'''
+	@patch('en.sentence.tag')
+	def test_question_score_tag(self, mock_tag):
+		evaluate.question_score('this is a sentence with some words and, if I may say so, an interesting structure so the tagger should work.')
+		mock_tag.assert_called() 
+
+	'''
+		Function under test: question_score
+		Location of function: evaluate
+		Purpose of test: to make sure that evaluate is calculating the edit distance to obtain a score for questions
+	'''
+	@patch('nltk.metrics.edit_distance')
+	def test_question_score(self, mock_distance):
+		mock_distance.return_value = 20
+		mock = MagicMock()
+		with mock as answer:
+			evaluate.question_score('this is a sentence with some words and, if I may say so, an interesting structure so the tagger should work.')
+		mock_distance.assert_called() 
+
 if __name__ == '__main__' :
 	unittest.main()		
 		
